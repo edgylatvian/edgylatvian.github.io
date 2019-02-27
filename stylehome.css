@@ -1,0 +1,78 @@
+
+body {
+	background-image: url("tree.jpg");
+	margin-left: 100px;
+	margin-right: 100px;
+	
+}
+
+#action1 p{
+	font-size: 80px;
+	font-family: Ariel;
+}
+header {
+	
+	text-align: center;
+}
+
+#logo {
+	padding-top: 15px;
+	padding-bottom: 7px;
+	color: green;
+}
+.container {
+	background-color: #F2F2F2;
+	width: 775px;
+	margin: 0 auto;
+	opacity: 1;
+}
+
+
+main {
+
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+#main-bottom-content {
+	text-align: left;
+}
+
+.text1 {
+	text-align: centre;
+	
+}
+
+li {
+	
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	display: inline;
+	font-family: Georgia;
+	
+	
+}
+	
+.tomins {
+	padding-left: 40px;
+	width: 500px;
+	height: 300px;
+}
+	
+#bot1 img{
+	padding-left: auto 0;
+	
+}	
+
+#bot3 img {
+	padding-bottom: 20px;
+}
+footer {
+	
+	text-align: center;
+	font-weight: bold;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
